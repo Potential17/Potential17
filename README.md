@@ -1,4 +1,4 @@
-![Github Oct](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![Github Oct](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-animated.gif)
 
 
 ### Hi there 👋
