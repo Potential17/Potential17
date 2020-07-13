@@ -1,4 +1,4 @@
-![Github Oct](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-animated.gif)
+![Github Oct](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
 
 
 ### Hi there 👋
