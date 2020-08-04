@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
-- 👯 I’m looking to collaborate on open source projects based web development
+- 👯 I’m looking to collaborate on open source projects based on web development
 - 🤔 I’m looking for help with ReactJS and TypeScipt
 - 💬 Ask me about Frontend web development projects
 - 📫 How to reach me: shashwat171@outlook.com
