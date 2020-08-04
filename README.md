@@ -2,9 +2,7 @@
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
 
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hey, folks 👋
 
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
