@@ -11,7 +11,7 @@
 - 💬 Ask me about Frontend web development projects
 - 📫 How to reach me: shashwat171@outlook.com
 - 😄 Pronouns: Potential17
-- ⚡ Fun fact: Sometimes I fix the production bug by commenting on the code !!
+- ⚡ Fun fact: Sometimes I fix the production bug by commenting the code !!
 
 
 
