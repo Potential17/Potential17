@@ -1,4 +1,4 @@
-![Github Oct](https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif)
+![Github](https://raw.githubusercontent.com/Potential17/folio-2019/master/sh.gif.gif?token=AL4BVPLLRGCJZGUZHFQ5MGC76742A)
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
   
