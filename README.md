@@ -1,4 +1,4 @@
-![Github](https://raw.githubusercontent.com/Potential17/folio-2019/master/sh.gif.gif?token=AL4BVPIREJNEAFF32FV2XJTABA7TY)
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
   
