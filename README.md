@@ -28,7 +28,7 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potential17&show_icons=true&theme=radical" alt="potential17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potential17&show_icons=true&theme=prussian" alt="potential17" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Potential17&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
