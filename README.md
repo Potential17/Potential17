@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on my personal projects based on JavaScript
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
-- 👯 I’m looking to collaborate on open source projects based on web development.
-- 🤔 I’m looking for help in projects based on ReactJS and TypeScript.
-- 💬 Ask me about Frontend development based projects.
+- 👯 I’m looking to collaborate on Frontend development based projects.
 - 📫 How to reach me: shashwat171@outlook.com
 - 😄 Pronouns: Potential17
 - ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
