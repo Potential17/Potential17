@@ -26,11 +26,6 @@
 <br />
 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=potential17&show_icons=true&theme=prussian&hide_border=true" alt="potential17" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Potential17&theme=prussian&hide_border=true" />
-</p>
-
 ![Github Streak](https://raw.githubusercontent.com/Potential17/Potential17/master/git%20analysis.png)
 
 
