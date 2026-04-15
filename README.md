@@ -2,13 +2,15 @@
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
   
-### Hey, folks! 👋
+### Hi, I'm Shashwat 👋
 
-- 🔭 I’m currently working on my personal projects based on JavaScript
-- 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
-- 👯 I’m looking to collaborate on Frontend development based projects.
-- 😄 Pronouns: Potential17
-- ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
+AI Frontend Engineer focused on architecting AI-native systems and high-performance UI architectures.
+
+- ⚙️ Architecting scalable UI systems with a strong focus on rendering performance and system design  
+- 🚀 Driving AI-native interfaces powered by LLM integrations and dynamic UI flows  
+- 🧠 Working across performance engineering, design systems, and scalable frontend architecture  
+- 🤝 Open to collaborating on complex frontend/system design challenges  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
